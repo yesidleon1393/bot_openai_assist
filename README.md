@@ -3,15 +3,26 @@
 
 This project creates a WhatsApp bot that integrates with an AI assistant using BuilderBot technology - thanks - Leifer Mendez. It allows for automated conversations and intelligent responses powered by OpenAI's assistant API.
 
-## Features
+### Features
+- Automated conversation flows for WhatsApp: Create dynamic, multi-step conversations to guide users effectively.
+- Integration with OpenAI's assistant API: Leverage OpenAI’s models to generate intelligent, human-like responses for better customer engagement.
+- Agnostic to WhatsApp provider: Easily adaptable to various WhatsApp providers, enhancing flexibility and integration capabilities.
+- Automated responses to frequently asked questions: Reduce response times by addressing common inquiries instantly.
+- Real-time message receiving and responding: Ensure instant replies for a seamless user experience, ideal for support and lead engagement.
+- Interaction tracking with customers: Track each interaction to analyze user behavior and improve future responses.
+- Expandable functionality through triggers: Customize actions based on specific triggers, enabling tailored automation.
 
-- Automated conversation flows for WhatsApp
-- Integration with OpenAI's assistant API
-- Agnostic to WhatsApp provider
-- Automated responses to frequently asked questions
-- Real-time message receiving and responding
-- Interaction tracking with customers
-- Expandable functionality through triggers
+### Additional Features
+- Natural Language Understanding (NLU): Enhanced NLU capabilities to interpret user intent and provide more context-aware responses.
+- Sentiment Analysis: Analyze the user's tone and sentiment in real-time, adjusting responses based on mood or urgency.
+- Multi-Language Support: Allow for multilingual conversations, automatically detecting and responding in the user’s preferred language.
+- Customizable Response Templates: Set up predefined response templates for common queries, ensuring consistent and professional communication.
+- Smart Escalation to Human Agents: Automatically hand off conversations to human agents when the AI encounters complex or unresolved queries.
+- Analytics Dashboard: Gain insights into chatbot performance with analytics on response times, customer satisfaction, and conversation flow efficiency.
+- Scheduled Messages and Reminders: Send automated reminders or scheduled follow-ups to engage users at the right time.
+- Data Storage and Conversation Logs: Store conversation histories for compliance, training, or performance review purposes.
+- Personalized Recommendations: Use user data and interaction history to suggest personalized products, services, or content.
+- Opt-in Data Collection: Collect user consented data (e.g., email, preferences) for personalized future interactions and follow-ups.
 
 ## Getting Started
 
