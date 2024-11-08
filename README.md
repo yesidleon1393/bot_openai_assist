@@ -1,10 +1,4 @@
-# WhatsApp AI Assistant Bot (BuilderBot.app)
-
-<p align="center">
-  <img src="https://builderbot.vercel.app/assets/thumbnail-vector.png" height="80">
-</p>
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6VbbLI?referralCode=jyd_0y)
+# WhatsApp AI Assistant Bot Based in (BuilderBot.app)
 
 This project creates a WhatsApp bot that integrates with an AI assistant using BuilderBot technology. It allows for automated conversations and intelligent responses powered by OpenAI's assistant API.
 
@@ -67,9 +61,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-
-For questions and support, join our [Discord community](https://link.codigoencasa.com/DISCORD) or follow us on [Twitter](https://twitter.com/leifermendez).
-
----
-
-Built with [BuilderBot](https://www.builderbot.app/en) - Empowering conversational AI for WhatsApp
+https://synergysolutions.space
